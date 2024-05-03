@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  LightControl
+
+  Created by Joseph on 2021/5/20.
+  
+*/
+
+"NSBluetoothAlwaysUsageDescription" = "使用蓝牙连接设备";
+"NSBluetoothPeripheralUsageDescription" = "使用蓝牙连接设备";

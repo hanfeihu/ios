@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-LightControl/Pods-LightControl-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AutoInch/AutoInch.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/SwifterSwift/SwifterSwift.framework
+${BUILT_PRODUCTS_DIR}/SwiftyBluetooth/SwiftyBluetooth.framework
+${BUILT_PRODUCTS_DIR}/Toast-Swift/Toast_Swift.framework
+${BUILT_PRODUCTS_DIR}/YXAlertController/YXAlertController.framework

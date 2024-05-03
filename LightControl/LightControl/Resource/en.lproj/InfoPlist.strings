@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  LightControl
+
+  Created by Joseph on 2021/5/20.
+  
+*/
+
+"NSBluetoothAlwaysUsageDescription" = "Use Bluetooth to connect Stoplight Golight timer";
+"NSBluetoothPeripheralUsageDescription" = "Use Bluetooth to connect Stoplight Golight timer";

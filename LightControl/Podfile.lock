@@ -1,0 +1,56 @@
+PODS:
+  - AutoInch (2.1.0)
+  - SnapKit (4.2.0)
+  - SwifterSwift (5.1.0):
+    - SwifterSwift/AppKit (= 5.1.0)
+    - SwifterSwift/CoreGraphics (= 5.1.0)
+    - SwifterSwift/CoreLocation (= 5.1.0)
+    - SwifterSwift/Dispatch (= 5.1.0)
+    - SwifterSwift/Foundation (= 5.1.0)
+    - SwifterSwift/MapKit (= 5.1.0)
+    - SwifterSwift/SceneKit (= 5.1.0)
+    - SwifterSwift/SpriteKit (= 5.1.0)
+    - SwifterSwift/SwiftStdlib (= 5.1.0)
+    - SwifterSwift/UIKit (= 5.1.0)
+  - SwifterSwift/AppKit (5.1.0)
+  - SwifterSwift/CoreGraphics (5.1.0)
+  - SwifterSwift/CoreLocation (5.1.0)
+  - SwifterSwift/Dispatch (5.1.0)
+  - SwifterSwift/Foundation (5.1.0)
+  - SwifterSwift/MapKit (5.1.0)
+  - SwifterSwift/SceneKit (5.1.0)
+  - SwifterSwift/SpriteKit (5.1.0)
+  - SwifterSwift/SwiftStdlib (5.1.0)
+  - SwifterSwift/UIKit (5.1.0)
+  - SwiftyBluetooth (1.0.0)
+  - Toast-Swift (5.0.1)
+  - YXAlertController (1.1.0)
+
+DEPENDENCIES:
+  - AutoInch
+  - SnapKit
+  - SwifterSwift
+  - SwiftyBluetooth
+  - Toast-Swift (~> 5.0.1)
+  - YXAlertController
+
+SPEC REPOS:
+  trunk:
+    - AutoInch
+    - SnapKit
+    - SwifterSwift
+    - SwiftyBluetooth
+    - Toast-Swift
+    - YXAlertController
+
+SPEC CHECKSUMS:
+  AutoInch: f2468bf8e33f7642699296db30240d3b3631ba33
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwifterSwift: a9e8e144832638c2850b43da5feaf9598c6ad65b
+  SwiftyBluetooth: 9e26b1367f56aa60f35713f6d968382144bccfd5
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  YXAlertController: 8234d980cda27a86a285faea140a3c8676bca768
+
+PODFILE CHECKSUM: 7bd2d12ca9da0f8f3168d3c5e2d4c18abaf7c439
+
+COCOAPODS: 1.10.1

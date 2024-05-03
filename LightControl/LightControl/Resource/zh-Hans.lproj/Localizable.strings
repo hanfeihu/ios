@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  LightControl
+
+  Created by Joseph on 2021/3/26.
+  
+*/
+
+
+"Disconnect" = "与设备断开连接";
+"ToDisconnect" = "是否与设备断开连接？";
+"Sure" = "确定";
+"Cancel" = "取消";
+"ChooseTime" = "请选择时间";
+"ToStop" = "是否停止计时并关机？";
+"Shutdown" = "关机-发送成功";
+

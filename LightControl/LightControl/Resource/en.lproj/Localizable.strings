@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  LightControl
+
+  Created by Joseph on 2021/3/26.
+  
+*/
+
+"Disconnect" = "Disconnect from device";
+"ToDisconnect" = "Are you going to disconnect from the device?";
+"Sure" = "Sure";
+"Cancel" = "Cancel";
+"ChooseTime" = "Please choose a time";
+"ToStop" = "Are you going to stop the timer and shut down?";
+"Shutdown" = "Shut down successfully";

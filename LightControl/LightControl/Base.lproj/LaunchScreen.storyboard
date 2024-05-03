@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="LittleOrion.otf">
+            <string>LittleOrion-PersonalUse-Regular</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" insetsLayoutMarginsFromSafeArea="NO" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="Dec-WX-Ys4">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Time Made Simple!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8BL-Yu-oBz">
+                                <rect key="frame" x="110.5" y="530.5" width="193" height="35"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="35" id="cMA-Uo-LC5"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="LittleOrion-PersonalUse-Regular" family="Little Orion - Personal Use" pointSize="35"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Stoplight Golight Timer Logo" adjustsImageSizeForAccessibilityContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="2bj-hn-nb5">
+                                <rect key="frame" x="50" y="285.5" width="314" height="225"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="2bj-hn-nb5" secondAttribute="height" multiplier="158:113" id="OMJ-bf-5Gh"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="8BL-Yu-oBz" firstAttribute="centerX" secondItem="Dec-WX-Ys4" secondAttribute="centerX" id="9zw-zk-dBc"/>
+                            <constraint firstItem="8BL-Yu-oBz" firstAttribute="top" secondItem="2bj-hn-nb5" secondAttribute="bottom" constant="20" id="Cbh-dc-LPI"/>
+                            <constraint firstItem="2bj-hn-nb5" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="50" id="E5i-zP-tSb"/>
+                            <constraint firstItem="Dec-WX-Ys4" firstAttribute="bottom" secondItem="Ze5-6b-2t3" secondAttribute="bottom" id="IsA-H7-NUL"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="2bj-hn-nb5" secondAttribute="trailing" constant="50" id="Lu0-OO-RvO"/>
+                            <constraint firstItem="Dec-WX-Ys4" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="OOO-zi-VtU"/>
+                            <constraint firstItem="Dec-WX-Ys4" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="THE-ah-TTV"/>
+                            <constraint firstItem="2bj-hn-nb5" firstAttribute="centerY" secondItem="Dec-WX-Ys4" secondAttribute="centerY" constant="-50" id="X1L-cz-Ng2"/>
+                            <constraint firstItem="Dec-WX-Ys4" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailing" id="b23-7A-a6n"/>
+                            <constraint firstItem="2bj-hn-nb5" firstAttribute="centerX" secondItem="Dec-WX-Ys4" secondAttribute="centerX" id="j3x-uC-nRW"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.173913043478265" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Stoplight Golight Timer Logo" width="158.5" height="113.5"/>
+        <image name="background" width="375" height="812"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

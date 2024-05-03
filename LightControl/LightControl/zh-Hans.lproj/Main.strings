@@ -1,0 +1,84 @@
+
+/* Class = "UILabel"; text = "Select Timer Type"; ObjectID = "1Xu-L4-Bve"; */
+"1Xu-L4-Bve.text" = "Select Timer Type";
+
+/* Class = "UILabel"; text = "Set countdown to green"; ObjectID = "3PX-P9-s6S"; */
+"3PX-P9-s6S.text" = "Set countdown to green";
+
+/* Class = "UILabel"; text = "Select Time Interval"; ObjectID = "3S7-qo-59d"; */
+"3S7-qo-59d.text" = "Select Time Interval";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "5I2-Ii-WLE"; */
+"5I2-Ii-WLE.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Add your device"; ObjectID = "Cdi-1H-ReA"; */
+"Cdi-1H-ReA.text" = "Add your device";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "DPg-ai-gbO"; */
+"DPg-ai-gbO.text" = "00:00:00";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "DsV-p9-7Y6"; */
+"DsV-p9-7Y6.text" = ":";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Iie-gP-E4V"; */
+"Iie-gP-E4V.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Alarm sound at end"; ObjectID = "Jcr-Lf-3bY"; */
+"Jcr-Lf-3bY.text" = "Alarm sound at end";
+
+/* Class = "UIButton"; normalTitle = "Resume"; ObjectID = "K6c-RH-8xr"; */
+"K6c-RH-8xr.normalTitle" = "Resume";
+
+/* Class = "UILabel"; text = "Music"; ObjectID = "N96-Bg-zhO"; */
+"N96-Bg-zhO.text" = "Music";
+
+/* Class = "UILabel"; text = "device not found"; ObjectID = "QAr-bl-Jlk"; */
+"QAr-bl-Jlk.text" = "device not found";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "Sje-CC-4Zm"; */
+"Sje-CC-4Zm.text" = "...";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "Tx8-h2-KcH"; */
+"Tx8-h2-KcH.text" = ":";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "VnK-fR-FhA"; */
+"VnK-fR-FhA.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Set Your Timer!"; ObjectID = "Xd6-ET-ujN"; */
+"Xd6-ET-ujN.text" = "Set Your Timer!";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "dqQ-bc-AA5"; */
+"dqQ-bc-AA5.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Stoplight Golight by default uses the red light at end of the timer."; ObjectID = "eNm-fb-mml"; */
+"eNm-fb-mml.text" = "Stoplight Golight by default uses the red light at end of the timer.";
+
+/* Class = "UILabel"; text = "Click the button to add your device"; ObjectID = "est-Dm-DNF"; */
+"est-Dm-DNF.text" = "Click the button to add your device";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "iRR-bm-31P"; */
+"iRR-bm-31P.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "kIb-Wa-CW9"; */
+"kIb-Wa-CW9.text" = ":";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "mLH-1F-ZxU"; */
+"mLH-1F-ZxU.text" = ":";
+
+/* Class = "UILabel"; text = "Searching"; ObjectID = "mPV-NI-8c3"; */
+"mPV-NI-8c3.text" = "Searching";
+
+/* Class = "UIButton"; normalTitle = "Pause"; ObjectID = "ohL-cB-BFK"; */
+"ohL-cB-BFK.normalTitle" = "Pause";
+
+/* Class = "UILabel"; text = "Select End Time"; ObjectID = "tHv-tN-L15"; */
+"tHv-tN-L15.text" = "Select End Time";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "uqP-sk-6QB"; */
+"uqP-sk-6QB.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Select your device"; ObjectID = "vE9-We-33f"; */
+"vE9-We-33f.text" = "Select your device";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "wwO-Xk-pxc"; */
+"wwO-Xk-pxc.normalTitle" = "Back";
